@@ -1,6 +1,6 @@
 {
   "name": "asciitranslator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "AsciiTranslator will help you to get the ascii value of the string passed in this function. You don't need to write seprate function for it.",
   "main": "index.js",
   "scripts": {
