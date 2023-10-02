@@ -1,0 +1,27 @@
+{
+  "name": "asciitranslator",
+  "version": "1.0.0",
+  "description": "AsciiTranslator will help you to get the ascii value of the string passed in this function. You don't need to write seprate function for it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harsh-100/AsciiTranslator.git"
+  },
+  "keywords": [
+    "AsciiTranslator",
+    "ascii",
+    "value",
+    "get",
+    "ascii",
+    "value"
+  ],
+  "author": "Harsh Agarwal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harsh-100/AsciiTranslator/issues"
+  },
+  "homepage": "https://github.com/harsh-100/AsciiTranslator#readme"
+}
