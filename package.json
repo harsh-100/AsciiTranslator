@@ -4,7 +4,7 @@
   "description": "AsciiTranslator will help you to get the ascii value of the string passed in this function. You don't need to write seprate function for it.",
   "main": "index.js",
   "scripts": {
-    "test": "npm run test "
+    "test": "node index.test"
   },
   "repository": {
     "type": "git",

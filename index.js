@@ -1,9 +1,13 @@
-function getAsciiValue(userStr) {
-  let eachKey = userStr.split("");
+/**
+ * Function to convert given input string to an array of ascii values sequentially
+ * @param {string} input
+ * @returns {number[]}
+ */
+function getAsciiValue(input) {
+  let eachKey = input.split("");
   let result = [];
-  eachKey.forEach((one) => {
-    let obj = { [one]: one.charCodeAt(0) };
-    result.push(obj);
+  eachKey.forEach((character) => {
+    result.push(character.charCodeAt(0));
   });
   return result;
 }
